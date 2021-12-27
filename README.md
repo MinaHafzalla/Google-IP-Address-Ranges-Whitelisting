@@ -1,6 +1,6 @@
 *Developed by Mina Hafzalla*
 # Google IP Address Ranges Whitelisting
-If your server is set to use G Suite (Google Apps formerly) to handle your emails, and your server's firewall is set to block SMTP ports for public, then you will need to whitelist Google IP address ranges for outbound SMTP in order for Google to properly send emails.
+If your server is set to use Google Workspace Email (G Suite formerly) to handle your emails, and your server's firewall is set to block SMTP ports for public, then you will need to whitelist Google IP address ranges for outbound SMTP in order for Google to properly send emails.
 
 This program is written in Bash and it automates the process of retrieving Google IP address ranges, updating them on daily basis and whitelisting them within the firewall configuration.
 
