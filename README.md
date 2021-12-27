@@ -61,4 +61,4 @@ Last thing is to include the file `finalgoogleips.txt` inside the firewall confi
 Congratulations! You are all set now and your server is set to allow Google IP address ranges for SMTP communications.
 
 # Questions
-Please leave a comment or send me an email at mina@netmoly.com if you have any questions.
+Please leave a comment or send me an email at minahafzalla@gmail.com if you have any questions.
